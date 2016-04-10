@@ -1,5 +1,5 @@
-# iot-platform-event-server
-Event server for iot platform
+# iot-platform-data-listener
+Data listener server for iot platform
 
 # Steps to setup : 
 
